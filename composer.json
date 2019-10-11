@@ -1,7 +1,6 @@
 {
     "name": "walker-furniture/mandrill"
    ,"type": "library"
-   ,"version": "1.0.56"
    ,"description": "API client library for the Mandrill email as a service platform"
    ,"keywords": ["email", "api", "mandrill", "php"]
    ,"homepage": "https://github.com/walker-furniture/mandrill-api-php"
